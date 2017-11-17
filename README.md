@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Novemeber 17, 2017
 
 ### Student Name:  
-(First and Last Name)
+Adam Powell
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment helped us better uderstand jQuery and how it works.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://adam266.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. .fadeIn("slow") fades in a hidden element slowly.
+2. Putting script.js in the index.html file allowed for the effects to take place on the page.
+3. animate() allows you to create your own custom animations.
 
